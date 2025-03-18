@@ -1,4 +1,4 @@
-## hey baby 👋
+## hey 👋
 write something about yourself here
 
 <!--
